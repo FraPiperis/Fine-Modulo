@@ -30,11 +30,19 @@ header nav {
 h2 {
     margin-right: 20px;
 }
+
 .generi .btn {
     background-color: black;
     border-radius: 0px;
     border: 40%;
     font-size: small;
+}
+.carousel img {
+    width: 200px;
+    height: 100px;
+}
+.carousel {
+    margin: 20px;
 }
 
 
