@@ -1,0 +1,22 @@
+header nav img {
+    width: 70px;
+}
+header nav {
+    font-size: small;
+}
+.IconaNetflix {
+    width: 30px;
+    height: 30px;
+}
+.profilo  {
+    margin: 5px;
+    color: rgb(255, 255, 255);
+}
+#icona {
+    width: 20px;
+    margin: 10px;
+}
+.barra {
+    margin: 5px;
+}
+
