@@ -1,3 +1,7 @@
+body {
+    background-color:#2b3035;
+    color: white;
+}
 header nav img {
     width: 70px;
 }
@@ -19,4 +23,20 @@ header nav {
 .barra {
     margin: 5px;
 }
+.show {
+    justify-content: space-between;
+    margin: 20px;
+}
+h2 {
+    margin-right: 20px;
+}
+.generi .btn {
+    background-color: black;
+    border-radius: 0px;
+    border: 40%;
+    font-size: small;
+}
+
+
+
 
