@@ -46,7 +46,27 @@ h2 {
 }
 .social {
     margin-top: 60px;
-    justify-content: center;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+.liste  {
+    justify-content: space-between;
+    font-size: smaller;
+    margin-left: 310px;
+    margin-right: 200px;
+    color: #5a5e63b5;
+    margin-bottom: 20px;
+}
+.inci {
+    margin-left: 310px;
+    font-size: smaller;
+    color:#5a5e63b5;
+}
+footer .btn {
+    margin-left: 310px;
+    margin-bottom: 20px;
+    font-size: smaller;
+    border-radius: 0px;
 }
 
 
