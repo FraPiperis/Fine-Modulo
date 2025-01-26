@@ -71,6 +71,47 @@ footer .btn {
     font-size: smaller;
     border-radius: 0px;
 }
+.bottoni button {
+   background-color: transparent;
+   padding: 0;
+   width: 60px;
+   height: 40px;
+}
+.carousel .dettaglio {
+    font-size: smaller; 
+    color: #717376a7;
+    height: 0;
+    opacity: 0;
+    transition: opacity 0.8s linear;
+    text-align: center;
+    font-size: smaller;
+ }
+ .carousel .dettaglio h6 {
+    margin-top: 10px;
+    color: rgba(239, 163, 163, 0.66);
+ }
+
+.carousel-item > .row > div {
+    transition: transform 0.8s; 
+ }
+
+ .carousel-item > .row > div:hover {
+    transform: scale(1.5);
+    cursor: pointer;
+    z-index: 100;
+ }
+
+.carousel-inner {
+    overflow: visible;
+ }
+
+.carousel-item > .row > div:hover .dettaglio{
+    opacity: 1;
+    background-color: #2b3035;
+    height: auto;
+    position: absolute;
+    
+ }
 
 
 
