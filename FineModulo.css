@@ -44,15 +44,15 @@ h2 {
 .carousel {
     margin: 20px;
 }
-.social {
+footer .social {
     margin-top: 60px;
-    margin-left: 300px;
+    margin-left: 100px;
     margin-bottom: 20px;
 }
 .liste  {
     justify-content: space-between;
     font-size: smaller;
-    margin-left: 310px;
+    margin-left: 100px;
     margin-right: 200px;
     margin-bottom: 20px;
 }
@@ -60,13 +60,14 @@ h2 {
     color:#5a5e63b5;
     text-decoration: none;
 }
-.inci {
-    margin-left: 310px;
+footer .inci {
+    margin-left: 100px;
     font-size: smaller;
     color:#5a5e63b5;
 }
+
 footer .btn {
-    margin-left: 310px;
+    margin-left: 100px;
     margin-bottom: 20px;
     font-size: smaller;
     border-radius: 0px;
@@ -105,13 +106,13 @@ footer .btn {
     overflow: visible;
  }
 
-.carousel-item > .row > div:hover .dettaglio{
+.carousel-item > .row > div:hover .dettaglio {
     opacity: 1;
     background-color: #2b3035;
     height: auto;
     position: absolute;
-    
  }
+
 
 
 
